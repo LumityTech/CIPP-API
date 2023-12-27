@@ -27,4 +27,4 @@ jobs:
           app-name: 'cipplxlci'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D2BADAB6E8B4517AE8A3D8406CA4E70 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D972AB33D0F24EC4B5CE0B0B75412224 }}
